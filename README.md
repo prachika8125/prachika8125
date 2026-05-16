@@ -2,6 +2,7 @@
 
 ## Hey there, I'm Prachika
 **Computer Engineering Student**
+
 I want to build systems that make a difference.
 Currently, I am exploring career paths.
 
